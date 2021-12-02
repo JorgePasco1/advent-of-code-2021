@@ -16,7 +16,7 @@ elif (( $exercise_number < 21 ));
 then
   parent_dir="11-20"
 else
-  parent_dir="21-30"
+  parent_dir="21-31"
 fi
 
 mkdir -p $parent_dir/$exercise_number-$exercise_name
